@@ -1,0 +1,3 @@
+displayName = GeburaCSMod
+author = Volknet
+version = 0.1

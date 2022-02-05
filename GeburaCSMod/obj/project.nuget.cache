@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpP+oFWnXX3a8WvA/PcueIJiC1PAanQL0KAz5F1IUCGZNo1uf8yK9ZT5jWC2pAiev4TzU5aIcvHScVBp7TzhMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\GeburaCSMod\\GeburaCSMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
